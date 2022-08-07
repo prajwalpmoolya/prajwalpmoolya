@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/prajwal_jan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal_jan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prajwal-p-moolya-a0598220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-p-moolya-a0598220b" height="30" width="40" /></a>
-<a href="https://kaggle.com/prajwal p moolya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prajwal p moolya" height="30" width="40" /></a>
+<a href="https://kaggle.com/prajwalpmoolya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prajwalpmoolya" height="30" width="40" /></a>
 <a href="https://instagram.com/p_r_a_j_w_a_l_l_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_r_a_j_w_a_l_l_l" height="30" width="40" /></a>
 </p>
 
