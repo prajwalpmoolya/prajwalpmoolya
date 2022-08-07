@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*KPWM5zKlkh2Zx90TiqUV1g.jpeg)
+![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*KPWM5zKlkh2Zx90TiqUV1g.jpeg)
 <h1 align="center">Hi 👋, I'm Prajwal P Moolya</h1>
 <h3 align="center">Data Science | ML | AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
