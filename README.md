@@ -1,3 +1,5 @@
+<img src="banner_github.gif" alt="GitHub Banner" width="100%" />
+
 # 👋 Hi, I'm Prajwal | Machine Learning Engineer
 🧠 Building brainy AI agents & the sturdy digital homes they need <i>(so they don't wander off!)</i><br>✨ Mixing multimodal senses with open-source magic to make AI that actually gets it<br>🚀 Creating adaptive tech that solves real problems <i>(and hopefully doesn't plot world domination... mostly kidding!)</i>
 
